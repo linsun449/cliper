@@ -1,5 +1,5 @@
-# iSeg
-This is the repository that contains source code for the [CLIPer website](https://linsun449.github.io/iSeg/).
+# CLIPer
+This is the repository that contains source code for the [CLIPer website](https://linsun449.github.io/cliper/).
 
 # Thanks
 This is the repository is heavily borrowed from <a href="https://github.com/nerfies/nerfies.github.io">nerfies</a>. Thanks for their wonderful work!
